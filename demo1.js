@@ -1,3 +1,5 @@
 function first(){
-console.log("nihao")
+console.log("nihao");
+  var i = 0;
+  i++;
 }
